@@ -2,7 +2,7 @@
     background-color: #d1d100;
 }
 
-.quem-somos {
+.sobre-nos {
     background-color: aqua;
     color: red;
 }
@@ -13,14 +13,35 @@
 }
 
 .parceiros {
-    background-color: #87cefa;
+    background-color: #5ec95a
 }
 
 .serviços {
     background-color:lightslategray;
 }
 
+.autor {
+    background-color: #87cefa;
+}
+
 .bg-footer {
     background-color: black;
     color: chocolate;
+}
+
+.app {
+    color: white;
+}
+
+.siga {
+    color: aliceblue;
+}
+
+.titulo-rede {
+    color: blueviolet;
+}
+
+.texto-rede {
+    font-size: 12px;
+    text-align: justify;
 }
